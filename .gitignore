@@ -36,3 +36,4 @@ BloodMagic_Client.launch
 BloodMagic_Server.launch
 
 usercache.json
+*.bat
